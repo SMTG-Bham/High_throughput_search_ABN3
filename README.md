@@ -7,10 +7,23 @@ This repository contains the research data generated for *Accessible Chemical Sp
 
 
 
-[![DOI](https://img.shields.io/badge/DOI-link__to__arxiv-blue)](http://www.arxiv.org)
+[![DOI](https://img.shields.io/badge/DOI-link__to__arxiv-blue)](https://arxiv.org/abs/2304.05450)
 
 
 
 
 ## Folder Architecture
 
+The folders contain respectively:
+
+- 25_Candidates_HSE06: The structures of the 25 candidates presented in the manuscript and relaxed with HSE06
+- Competing_phases: The structures of the 86 competing phases considered for thermodynamic stability and relaxed with HSE06
+- Json_summaries: Json files containing all the relevant information. 
+  This includes structures and energies for:
+  - the 279 candidates in 15 possible tilts, the intermediate structures
+  - the lowest energy tilted structure for all 279 candidates
+  - the intermediate structures found during the phonon mapping process
+  - the ten lowest energy structures for each of the 25 candidates obtained with AIRSS
+  - the summary of all lowest-energy structures identified in both workflows
+  - the materials already reported in literature
+  - the energy above the hull for all considered structures calculated with HSE06 and PBEsol
