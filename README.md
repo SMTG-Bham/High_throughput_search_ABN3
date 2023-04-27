@@ -25,6 +25,6 @@ The folders contain respectively:
   - the intermediate structures found during the phonon mapping process
   - the ten lowest energy structures for each of the 25 candidates obtained with AIRSS
   - the summary of all lowest-energy structures identified in both workflows
-  - the materials already reported in literature
+  - the materials already reported in literature and recomputed in this work
   - the energy above the hull for all considered structures calculated with HSE06 and PBEsol
 - Switching_paths: The structures along the switching path and the Born effective charges of the material calculated in the initial configuration
