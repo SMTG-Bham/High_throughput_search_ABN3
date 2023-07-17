@@ -9,6 +9,8 @@ This repository contains the research data generated for *Accessible Chemical Sp
 
 [![DOI](https://img.shields.io/badge/DOI-link__to__arxiv-blue)](https://arxiv.org/abs/2304.05450)
 
+[![DOI](https://zenodo.org/badge/623976069.svg)](https://zenodo.org/badge/latestdoi/623976069)
+
 
 
 
